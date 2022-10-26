@@ -14,6 +14,15 @@
 - 📄 Know about my skills [I have good knowledge of Tableau , Power-BI , Python , Data Visualization , EDA , Excel]
 - ⚡ Fun fact **I like to Analyze Stocks and go to the Gym!!**
 
+### 🤖 Core Competencies
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-8aede6?style=for-the-badge&logo=Tableau&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+![MYSQL](https://img.shields.io/badge/MYSQL-4DC6E2?style=for-the-badge&logo=microsoft-sql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-d6d945?style=for-the-badge&logo=microsoft-PowerBI&logoColor=white)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siraj shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siraj shaikh" height="30" width="40" /></a>
