@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siraj Shaikh</h1>
-<h3 align="center">I'm looking for transition into Data Analytics.</h3>
+<h3 align="center">Exploring Data Analytics Field📊🧑‍💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirajshaikh0704&label=Profile%20views&color=0e75b6&style=flat" alt="sirajshaikh0704" /> </p>
 
